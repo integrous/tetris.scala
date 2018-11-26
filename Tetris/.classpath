@@ -1,0 +1,28 @@
+<classpath>
+  <classpathentry excluding="main\java\|main\resources\|test\java\|test\resources\" kind="src" path="src"/>
+  <classpathentry kind="src" path="test"/>
+  <classpathentry kind="con" path="org.scala-ide.sdt.launching.SCALA_COMPILER_CONTAINER"></classpathentry>
+  <classpathentry kind="con" path="org.scala-ide.sdt.launching.SCALA_CONTAINER"></classpathentry>
+  <classpathentry sourcepath="C:\Users\purit\.ivy2\cache\org.scala-lang.modules\scala-xml_2.11\srcs\scala-xml_2.11-1.0.5-sources.jar" kind="lib" path="C:\Users\purit\.ivy2\cache\org.scala-lang.modules\scala-xml_2.11\bundles\scala-xml_2.11-1.0.5.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:C:\Users\purit\.ivy2\cache\org.scala-lang.modules\scala-xml_2.11\docs\scala-xml_2.11-1.0.5-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="C:\Users\purit\.ivy2\cache\org.scala-lang.modules\scala-parser-combinators_2.11\srcs\scala-parser-combinators_2.11-1.0.4-sources.jar" kind="lib" path="C:\Users\purit\.ivy2\cache\org.scala-lang.modules\scala-parser-combinators_2.11\bundles\scala-parser-combinators_2.11-1.0.4.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:C:\Users\purit\.ivy2\cache\org.scala-lang.modules\scala-parser-combinators_2.11\docs\scala-parser-combinators_2.11-1.0.4-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="C:\Users\purit\.ivy2\cache\org.scala-lang\scala-swing\srcs\scala-swing-2.11.0-M7-sources.jar" kind="lib" path="C:\Users\purit\.ivy2\cache\org.scala-lang\scala-swing\jars\scala-swing-2.11.0-M7.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:C:\Users\purit\.ivy2\cache\org.scala-lang\scala-swing\docs\scala-swing-2.11.0-M7-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="C:\Users\purit\.ivy2\cache\org.scalatest\scalatest_2.11\srcs\scalatest_2.11-2.2.4-sources.jar" kind="lib" path="C:\Users\purit\.ivy2\cache\org.scalatest\scalatest_2.11\bundles\scalatest_2.11-2.2.4.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:C:\Users\purit\.ivy2\cache\org.scalatest\scalatest_2.11\docs\scalatest_2.11-2.2.4-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+  <classpathentry kind="output" path="bin"/>
+</classpath>
