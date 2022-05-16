@@ -12,6 +12,3 @@
    관련된 파일 [plugins.sbt] 단, plugins.sbt파일을 project파일 안에 넣는다.
    
 4. 명령프롬프트로 Tetris에 위치 시킨 후 run sbt 입력한다. 그 후 ui인 2번을 클릭한다.
-
-
-![ApplicationFrameHost_5On5pZ2KSQ](https://user-images.githubusercontent.com/29849342/168564633-ada40e2f-dadc-490d-b128-2cc04a71a2ad.png)
